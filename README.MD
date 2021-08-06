@@ -16,7 +16,7 @@ Lebih detail silakan kunjungi [link](https://glints.com/id/lowongan/decision-tre
 
 Tujuan program sederhana ini adalah untuk memprediksi kelayakan dari data yang diinput oleh user apakah layak/tidak untuk menerima beasiswa berdasarkan model dari data training dibawah ini
 
-![Data Penerima Beasiswa Sekolah A](https://github.com/raviMukti/simple-linear-regression/blob/master/img/AppRun.png)
+![Data Penerima Beasiswa Sekolah A](https://github.com/raviMukti/simple-decision-tree/blob/master/img/sc-data-penerima-beasiswa.png)
 
 ## Screenshot
 Belum ditampilkan
@@ -38,3 +38,4 @@ Belum ditampilkan
 ## Thanks To
 
 1. [Glints](https://glints.com/id/lowongan/decision-tree-adalah/)
+2. [CodeBasics](https://www.youtube.com/watch?v=PHxYNGo8NcI)
