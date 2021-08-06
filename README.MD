@@ -19,10 +19,16 @@ Tujuan program sederhana ini adalah untuk memprediksi kelayakan dari data yang d
 ![Data Penerima Beasiswa Sekolah A](https://github.com/raviMukti/simple-decision-tree/blob/master/img/sc-data-penerima-beasiswa.png)
 
 ## Screenshot
+#### RunApp
 ![RunApp](https://github.com/raviMukti/simple-decision-tree/blob/master/img/sc-run-app.png)
+#### RunApp-Result
 ![RunApp-Result](https://github.com/raviMukti/simple-decision-tree/blob/master/img/sc-run-app-result.png)
+#### RunApp-Happy-Result
 ![RunApp-Happy-Result](https://github.com/raviMukti/simple-decision-tree/blob/master/img/sc-run-app-happy-result.png)
+#### Jupyter-Notebook
 ![Jupyter-Notebook](https://github.com/raviMukti/simple-decision-tree/blob/master/img/sc-jupyter-nb.png)
+#### Visualization
+![Visualization](https://github.com/raviMukti/simple-decision-tree/blob/master/img/treevisualization.png)
 
 ## Struktur Projek
 
